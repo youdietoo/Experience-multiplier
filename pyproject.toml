@@ -2,7 +2,9 @@
 name = "Experience multiplier"
 version = "1.0"
 authors = [{ name = "youdietoo" }]
-description = "Adds configurable experience multiplication.
+
+description = """\
+"Adds configurable experience multiplication.
 
 Original by: plu5"
 """
