@@ -6,6 +6,12 @@ description = "Adds configurable experience multiplication.
 
 Original by: plu5"
 
+description = """\
+"Adds configurable experience multiplication.
+
+Original by: plu5"
+"""
+
 [tool.sdkmod]
 name = "Experience multiplier"
 license = {name = "GPL3", url = "https://choosealicense.com/licenses/gpl-3.0/" }
