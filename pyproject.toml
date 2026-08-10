@@ -5,11 +5,6 @@ authors = [{ name = "youdietoo" }]
 description = "Adds configurable experience multiplication.
 
 Original by: plu5"
-
-description = """\
-"Adds configurable experience multiplication.
-
-Original by: plu5"
 """
 
 [tool.sdkmod]
