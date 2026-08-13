@@ -1,6 +1,6 @@
 [project]
 name = "Experience multiplier"
-version = "1.0"
+version = "1.1"
 authors = [{ name = "youdietoo" }]
 
 description = """\
@@ -12,5 +12,3 @@ Original by: plu5"
 [tool.sdkmod]
 name = "Experience multiplier"
 license = {name = "GPL3", url = "https://choosealicense.com/licenses/gpl-3.0/" }
-download = ""
-version = "1"
